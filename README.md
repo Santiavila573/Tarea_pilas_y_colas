@@ -1,1 +1,16 @@
-# NewRepo3
+# AP2_2 Tarea 6.1
+
+# Indicaciones
+# Tema: Investigar sobre la funcionalidad y aplicación de pilas y colas en C#
+
+# Objetivo: Adjuntar el documento con el informe.
+
+# Actividad:
+
+-          Aplicar un ejercicio de su elección por pilas y colas
+
+-          Documentar el proceso realizado con normas APA
+
+-          Subir el link del proyecto en GUTHUB
+
+# Suba a la plataforma: Utilizando el formato de presentación de tareas suba un solo archivo.pdf
